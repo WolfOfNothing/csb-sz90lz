@@ -25,22 +25,22 @@ let curr_track = document.createElement("audio");
 // Define the list of tracks that have to be played
 let track_list = [
   {
-    name: "Night Owl",
-    artist: "Broke For Free",
+    name: "Jzimo",
+    artist: "Francesco Frack Zuccarello",
     image: "Image URL",
-    path: "Night_Owl.mp3"
+    path: "Jzimo.mp3"
   },
   {
-    name: "Enthusiast",
-    artist: "Tours",
+    name: "Olga di Carta",
+    artist: "Aion Team",
     image: "Image URL",
-    path: "Enthusiast.mp3"
+    path: "Olga.mp3"
   },
   {
-    name: "Circle",
-    artist: "Mac Miller",
+    name: "Into the blue",
+    artist: "ExoProd",
     image: "Image URL",
-    path: "Circle.mp3"
+    path: "Into.mp3"
   }
 ];
 
