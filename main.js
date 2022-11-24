@@ -26,7 +26,7 @@ let curr_track = document.createElement("audio");
 let track_list = [
   {
     name: "Jzimo",
-    artist: "Francesco Frack Zuccarello",
+    artist: "Frack",
     image: "Image URL",
     path: "Jzimo.mp3"
   },
@@ -41,6 +41,24 @@ let track_list = [
     artist: "ExoProd",
     image: "Image URL",
     path: "Into.mp3"
+  },
+  {
+    name: "Stormy Forest - Ambient for Hello Nature",
+    artist: "Frack",
+    image: "Image URL",
+    path: "Forest.mp3"
+  },
+  {
+    name: "PerformIA Soundscape",
+    artist: "Frack",
+    image: "Image URL",
+    path: "PerformIA.mp3"
+  },
+  {
+    name: "CasaFools Soundscape",
+    artist: "Aion Team",
+    image: "Image URL",
+    path: "Casafools.mp3"
   }
 ];
 
